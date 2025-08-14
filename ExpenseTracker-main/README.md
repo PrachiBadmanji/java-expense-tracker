@@ -1,4 +1,4 @@
-# 💰 Java Expense Tracker
+# 📝 Java Expense Tracker
 
 A simple **Expense Tracker** application built using Java that allows users to manage and track their daily expenses efficiently.  
 This project is perfect for beginners to understand **Java basics, file handling, and OOP concepts**.
